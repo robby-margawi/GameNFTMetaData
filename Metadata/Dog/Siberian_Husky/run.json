@@ -1,0 +1,11 @@
+{
+  "name": "Siberian Husky",
+  "description": "Siberian Husky running in the snow.",
+  "image": "https://example.com/images/knight.png",
+  "attributes": [
+    
+  ],
+  "external_url": "https://example.com/characters/123",
+  "background_color": "000000",
+  "animation_url": "https://example.com/animations/knight.gif"
+}
