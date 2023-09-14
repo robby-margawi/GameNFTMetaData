@@ -2,10 +2,8 @@
   "name": "Siberian Husky",
   "description": "Siberian Husky running in the snow.",
   "image": "https://github.com/robby-margawi/GameNFTMetaData/blob/main/Metadata/Dog/Siberian_Husky/Siberian%20Husky-1.png",
-  "attributes": [
-    
-  ],
+  "attributes": [],
   "external_url": "https://github.com/robby-margawi/GameNFTMetaData/blob/main/Metadata/Dog/Siberian_Husky/Siberian%20Husky-1.png",
   "background_color": "000000",
-  "animation_url": "https://example.com/animations/knight.gif"
+  "animation_url": "https://github.com/robby-margawi/GameNFTMetaData/blob/main/Metadata/Dog/Siberian_Husky/Running%20Husky.gif"
 }
